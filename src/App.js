@@ -1,14 +1,16 @@
 import React from 'react';
-import Header from './Header';
 import './app.css';
+import Header from './Header';
+import TinderCards from './TinderCards';
+import SwipeButtons from './SwipeButtons';
 
 
 export default function App() {
     return (
         <div className='container'>
             <Header />
-            {/* tinder cards  */}
-            {/* tinder controls butttons  */}
+            <TinderCards />
+            <SwipeButtons />
         </div>
     )
 }
