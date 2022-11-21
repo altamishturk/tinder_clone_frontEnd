@@ -3,7 +3,7 @@
   "name": "tinder-clone",
   "version": "0.1.0",
   "engines": {
-    "node": "12.x"
+    "node": "16.15.0"
   }
   "private": true,
   "dependencies": {
