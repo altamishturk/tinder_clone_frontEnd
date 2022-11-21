@@ -2,6 +2,9 @@
   "homepage": "http://altamishturk.github.io/tinder_clone_frontEnd",
   "name": "tinder-clone",
   "version": "0.1.0",
+  "engines": {
+    "node": "12.x"
+  }
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.4.1",
